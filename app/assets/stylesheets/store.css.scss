@@ -12,10 +12,23 @@
 	.entry {
 		overflow: auto;
 		min-height: 100px;
+		margin-top: 25px;
 		}
 	img {
 		width: 80px;
 		position: absolute;
 		margin: 0 5px 5px 0;
+		}
+	h3 {
+		margin:0 0 0 150px;
+		}
+	p, div.price_line {
+		margin-left: 150px;
+		}
+	#banner {
+		p {
+			margin:20px 0 0;
+			}
 		}	
+			
 	}
